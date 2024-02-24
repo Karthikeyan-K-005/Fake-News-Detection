@@ -1,1 +1,1 @@
-# Fake-News-Detection
+Fake news detection involves the use of computational methods, typically leveraging machine learning algorithms, to identify misinformation or fabricated content within news articles, social media posts, or other textual sources. The goal is to differentiate between genuine and misleading information, thereby aiding users, platforms, and authorities in making informed decisions and combating the spread of disinformation.
